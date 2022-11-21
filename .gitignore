@@ -1,0 +1,12 @@
+# vscode
+.vscode/
+.clangd/
+compile_commands.json
+
+# c
+*.o
+*.out
+
+# temp
+temp/
+log.txt
